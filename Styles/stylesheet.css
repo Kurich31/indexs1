@@ -1,0 +1,57 @@
+nav
+{
+background-color: rgb(117, 226, 135);
+padding: 5px;
+}
+nav ul 
+{
+    text-align: center;
+    font-size: 1.2em;
+}
+nav ul li
+{
+ list-style-type: none;
+ background-color: #6be68a;
+ display: inline;
+ padding: 15px;
+ margin: 5px;
+ border: 2px solid rgb(30, 204, 195);
+ border-radius: 40px;
+}
+nav ul li a
+{
+    color: white;
+    text-decoration: none;
+}
+nav ul li:hover
+{
+background-color: rgb(235, 120, 210);
+}
+header
+{
+    background-color: rgb(14, 99, 102);
+    padding: 10px;
+}
+footer
+{
+    padding: 20px;
+    margin: 0px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(85, 210, 214);
+}
+.p1
+{
+text-align: center;
+color: white;
+}
+body{
+    font-family: Verdana;
+    margin: 0;
+    background-color: rgb(133, 172, 26);
+}
+h1{
+    text-align: left;
+    color: rgb(255, 240, 30);
+}
